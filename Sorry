@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">      
+        <link href="style.css" rel="stylesheet" type="style/css">
+    </head>
+    <body>
+      <center>
+                <img src="https://images.app.goo.gl/PE7wz9tfmnR3etPj9" height="200px" width="200px;" style="display-block; margin-auto">
+      </center>
+        <center>
+            <i> sorry sa mga kasalanan ko at sa kasalanang magagawa kopa</i>
+        </center>
+        <script>
+            alert("WARNING!")  
+          alert("John Joseph Christopher Alvino")
+          alert("love for short")
+          alert("or should i say my husband")
+          alert("di joke lang")
+            alert("sorry po")
+            alert("wag ka sana mag sasawa")
+            alert("iloveyou love")
+            alert("plss stay ka lang sakin") 
+            alert("sorry if lagi kitang inaaway") 
+            alert("i hope our monthsarry turn into anniversary")
+            alert("sorry sa mga kasalanan ko")
+            alert("ayaw kitang mawala")
+          alert("sorry sa mga nasasabi kung di maganda")
+          alert("iloveyousomuch")
+        </script>
+    </body>
+</html>
